@@ -64,3 +64,13 @@ Vivekananda College of Engineering and Technology, Puttur | Dec 2023 – Sep 202
 **Bachelor of Science (B.Sc)** — GPA: 8.02
 <br>
 Vivekananda College of Arts, Science and Commerce, Puttur | Jun 2020 – Aug 2023
+
+
+ ## Contact
+
+
+**Phone:** +91 96064 98369
+**Email:** sharanyabaleguli@gmail.com
+**GitHub:** github.com/sharanya200224
+**LinkedIn:** YOUR-LINKEDIN-LINK
+**Portfolio:** YOUR-PORTFOLIO-LINK
