@@ -22,7 +22,7 @@ I'm mainly interested in:
 - **Snowflake** — Exploring cloud data warehousing and working with large-scale data storage and analytics
 - **AI & Machine Learning** — Exploring predictive modeling, data pipelines, and applied AI, including Retrieval-Augmented Generation (RAG) systems
 
-**Know:** Python, SQL, HTML, CSS, JS, Snowflake, Django, Django REST Framework, FastAPI, Flask
+
 
 ##  Experience
 
