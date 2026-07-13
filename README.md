@@ -23,8 +23,8 @@ I'm mainly interested in:
 ## Experience
 
 
-AI/ML Intern — CodeLab Systems
+**AI/ML Intern** — CodeLab Systems
 Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
 
-Project: Metabolic Syndrome Classification — Built predictive classification models to detect metabolic syndrome using structured health data, involving data cleaning, exploratory data analysis, and model evaluation.
+**Project: Metabolic Syndrome Classification** — Built predictive classification models to detect metabolic syndrome using structured health data, involving data cleaning, exploratory data analysis, and model evaluation.
 
