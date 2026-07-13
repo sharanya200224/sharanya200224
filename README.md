@@ -2,7 +2,13 @@
   <img src="github_banner.png" width="100%" alt="GitHub profile banner">
 </p>
 
+# Hi, I'm Sharanya B 👋
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sharanyabaleguli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ## About Me
 
@@ -18,13 +24,19 @@ I'm mainly interested in:
 
 **Know:** Python, SQL, HTML, CSS, JS, Snowflake, Django, Django REST Framework, FastAPI, Flask
 
+## 💼 Experience
 
+- **AI/ML Intern — CodeLab Systems** (Dec 2024 – Feb 2025)
+  Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
 
-## Experience
+## 🚀 Featured Projects
 
+- **Cocoa Butter Quality Prediction** — A machine learning model built with Python and Scikit-learn to classify cocoa butter quality. Used SHAP for feature-importance analysis and was selected for the KSCST State-Level Project Exhibition.
 
-**AI/ML Intern** — CodeLab Systems
-Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
+- **Real Estate Booking Management System** — A Django web app for managing property listings, bookings, and enquiries. Includes user/realtor registration, rental agreements, and visit scheduling.
 
-**Project: Metabolic Syndrome Classification** — Built predictive classification models to detect metabolic syndrome using structured health data, involving data cleaning, exploratory data analysis, and model evaluation.
+- **Metabolic Syndrome Detection** — Logistic Regression and Random Forest models to detect metabolic syndrome from health data. Deployed as APIs using Flask and FastAPI.
 
+- **RAG-Powered Project Intelligence Assistant** — An AI document assistant using RAG, FAISS, and LangChain for semantic search. Answers are generated via the Groq LLM API, with a Streamlit interface.
+
+- **Automatic Tollgate System** — An automated toll system that detects vehicles and controls the gate without manual intervention. Built using sensor/RFID-based detection and gate control logic.
