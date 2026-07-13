@@ -58,7 +58,8 @@ I'm mainly interested in:
 
 **Master of Computer Applications (MCA)** — GPA: 9.08
 <br>
-Vivekananda College of Engineering and Technology, Puttur | Jan 2023 – Sep 2025
+Vivekananda College of Engineering and Technology, Puttur | Dec 2023 – Sep 2025
+<br>
 <br>
 **Bachelor of Science (B.Sc)** — GPA: 8.02
 <br>
