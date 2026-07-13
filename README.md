@@ -51,3 +51,12 @@ I'm mainly interested in:
 **Tools:** VS Code, Git, GitHub, Postman, Jupyter Notebook
 
 **AI/ML & Data:** Scikit-learn, Pandas, Matplotlib, SHAP, LangChain, FAISS, Streamlit
+
+
+ ## Education
+
+
+**Master of Computer Applications (MCA)** — GPA: 9.08
+Vivekananda College of Engineering and Technology, Puttur | Jan 2023 – Sep 2025
+**Bachelor of Science (B.Sc)** — GPA: 8.02
+Vivekananda College of Arts, Science and Commerce, Puttur | Jun 2020 – Aug 2023
