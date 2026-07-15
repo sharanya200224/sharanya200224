@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/sharanya-b-b6b640342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sharanyabaleguli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://sharanya200224.github.io/Portfoli/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sharanya200224.github.io/Portfoli/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&loghttps://drive.google.com/file/d/1MNRyx9HaeqX3IuuQ2Dhbe86lsFnA-Yrn/view?usp=drive_linkoColor=white" alt="Portfolio"></a>
+   <a href="https://drive.google.com/file/d/1MNRyx9HaeqX3IuuQ2Dhbe86lsFnA-Yrn/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+</p>
 </p>
 
 ## About
