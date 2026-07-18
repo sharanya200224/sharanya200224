@@ -76,9 +76,9 @@ Vivekananda College of Arts, Science and Commerce, Puttur | Jun 2020 – Aug 202
 <br>
 **Email:** sharanyabaleguli@gmail.com
 <br>
-**GitHub:** https://www.github.com/sharanya200224
+**GitHub:** https://www.github.com/sharanyabaleguli
 <br>
 **LinkedIn:** https://www.linkedin.com/in/sharanya-b-b6b640342
 <br>
-**Portfolio:** https://sharanya200224.github.io/Portfoli/
+**Portfolio:** https://sharanyabaleguli.github.io/Portfoli/
 
